@@ -1,4 +1,4 @@
-const stringRandomizer = (string) => {
+const shuffleCharacter = (string) => {
   if (!string) throw new Error("No value provided.");
   if (typeof string !== "string") throw new Error("The provided value is not an string.");
   let randomizedString = [];
@@ -10,4 +10,4 @@ const stringRandomizer = (string) => {
   }
   return randomizedString.join("");
 };
-module.exports = stringRandomizer;
+module.exports = shuffleCharacter;
