@@ -1,20 +1,23 @@
 {
-  "name": "stringrandomizer",
+  "name": "shuffle-characters",
   "version": "1.0.0",
   "main": "index.js",
   "keywords": [
-    "randomstring",
-    "stringrandomizer"
+    "random string",
+    "string randomizer",
+    "shuffle string",
+    "shuffle letters",
+    "shuffle characters"
   ],
   "author": "Aayush Mainali",
   "license": "ISC",
-  "description": "Randomize your strings!",
+  "description": "Shuffle your characters in a string.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AayushMainali-Github/stringrandomizer.git"
+    "url": "git+https://github.com/AayushMainali-Github/shuffle-characters.git"
   },
   "bugs": {
-    "url": "https://github.com/AayushMainali-Github/stringrandomizer/issues"
+    "url": "https://github.com/AayushMainali-Github/shuffle-characters/issues"
   },
-  "homepage": "https://github.com/AayushMainali-Github/stringrandomizer#readme"
+  "homepage": "https://github.com/AayushMainali-Github/shuffle-characters#readme"
 }
