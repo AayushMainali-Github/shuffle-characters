@@ -10,3 +10,4 @@ const stringRandomizer = (string) => {
   }
   return randomizedString.join("");
 };
+module.exports = stringRandomizer;

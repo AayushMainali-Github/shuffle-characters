@@ -2,8 +2,19 @@
   "name": "stringrandomizer",
   "version": "1.0.0",
   "main": "index.js",
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "randomstring",
+    "stringrandomizer"
+  ],
+  "author": "Aayush Mainali",
   "license": "ISC",
-  "description": ""
+  "description": "Randomize your strings!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AayushMainali-Github/stringrandomizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AayushMainali-Github/stringrandomizer/issues"
+  },
+  "homepage": "https://github.com/AayushMainali-Github/stringrandomizer#readme"
 }
