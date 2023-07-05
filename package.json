@@ -1,6 +1,6 @@
 {
   "name": "shuffle-characters",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "keywords": [
     "shuffle",
@@ -15,7 +15,7 @@
   ],
   "author": "Aayush Mainali",
   "license": "ISC",
-  "description": "Shuffle your characters in a string.",
+  "description": "Shuffle your characters in a string or numbers.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AayushMainali-Github/shuffle-characters.git"
