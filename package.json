@@ -1,13 +1,17 @@
 {
   "name": "shuffle-characters",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "keywords": [
+    "shuffle",
+    "shuffle characters",
+    "shuffle number",
     "random string",
-    "string randomizer",
     "shuffle string",
+    "string randomizer",
     "shuffle letters",
-    "shuffle characters"
+    "randomize number",
+    "shuffle integer"
   ],
   "author": "Aayush Mainali",
   "license": "ISC",
